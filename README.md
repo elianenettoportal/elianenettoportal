@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eliane</h1>
-<h3 align="center">Software Development and Data Science</h3>
+<h3 align="center">Software Developer and Data Science</h3>
 
 <h6>I graduated in Computer Science and have been working with technologies since before graduation. I have more than 10 years of experience working in a variety of roles and team´s environments.
 At the beginning of my career, I worked with Java and for the past 4-5 years I have been working as full-stack developer in NodeJS applications in stack as Express in BE, and  AngularJS or React in FE. The data bases SQL and NoSQL databases (MongoDB and MYSQL).
