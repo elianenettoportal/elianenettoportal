@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eliane</h1>
-<h3 align="center">I graduated in Computer Science, I have experience in Software Developer and Data Science</h3>
+<h3 align="center">I graduated in Computer Science, I have experience in Software Development and I am learning Data Science</h3>
 
 - 🔭 I’m currently working on **Software Developer**
 
