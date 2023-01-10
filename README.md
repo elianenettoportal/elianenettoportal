@@ -7,11 +7,11 @@ I am current learning Data Science. I took a few free/on-line courses to learn P
 
 I understand how powerful the field is, a professional in Data Science must have a special group of skills and I feel I can learn them and contribute to this area. I believe that with my knowledge in software development and my wide experience with projects, I can succeed on it.</h6>
 
-- 🔭 I’m currently working on **Software Developer**
+- 🔭 I am a **Software Developer** (Javascript(nodeJS), Python and Java. MongoDB, SQL(Mysql & Postgres))
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Science** and Python
 
-- 🤝 I’m looking for help with **Data Science**
+- 🤝 I’m looking for help with **Data Science** and BE Applications
 
 - 📫 How to reach me **elianenetto82@gmailcom**
 
