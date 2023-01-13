@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Eliane</h1>
 <h3 align="center">Software Developer and Data Scienctist</h3>
 
-<h6>I graduated in Computer Science and have been working with technologies since before graduation. I have more than 10 years of experience working in a variety of roles and team´s environments.
+<h6>I graduated in Computer Science and have been working with technologies since before graduation.  I have more than 10 years of experience working in a variety of roles and team environments. At the beginning of my career, I worked with Java and for the past 4-5 years I have been working as a full-stack developer in NodeJS applications (Express in BE, and AngularJS or React in FE, SQL, and NoSQL MongoDB & MYSQL)
 
-I am current learning Data Science. I took a few free/on-line courses to learn Python, I practiced ETL and Machine learning in Jupyter. Also, I am current enrolled in a paid Data Scientist course at Data Science Academy school.
+Currently learning Data Science. I took a few free online courses to learn Python, I practiced ETL and Machine learning in Jupyter. Currently enrolled in a paid Data Scientist course at Data Science Academy school.
 
-I understand how powerful the field is, a professional in Data Science must have a special group of skills and I feel I can learn them and contribute to this area. I believe that with my knowledge in software development and my wide experience with projects, I can succeed on it.</h6>
+Currently improving my knowledge of Python projects. I am enrolled in a course at Udemy. I have a few projects using Python and Flask & FastAPI frameworks.</h6>
 
 - 🔭 I am a **Software Developer** (Javascript(nodeJS), Python and Java. MongoDB, SQL(Mysql & Postgres))
 
