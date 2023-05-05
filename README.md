@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Eliane</h1>
 <h3 align="center">Software Developer and Data Scienctist</h3>
 
-<h6>I graduated in Computer Science and have been working with technologies since before graduation. I have more than 10 years of experience working in a variety of roles and team environments. At the beginning of my career, I worked with Java and for the past 4-5 years I have been working as a full-stack developer in NodeJS applications (Express in BE, and AngularJS or React in FE, SQL, and NoSQL MongoDB & MYSQL).</br>
-</br>
+<h6>I Graduated in Computer Science and Post Graduate in Quality Assurance and Software Engineering. I  have been working with technology since before graduation.
+I lived in Canada for 4 years where I learned English and since I got back to Brazil I´ve been working directly on USA projects/companies in a fully English environment.</br>
 
-Currently learning Data Science. I took a few free online courses to learn Python, I practiced ETL and Machine learning in Jupyter. Currently enrolled in a paid Data Scientist course at Data Science Academy school.</br>
-  
-Currently improving my knowledge of Python projects. I am enrolled in a course at Udemy. I have a few projects using Python and Flask & FastAPI frameworks.</h6>
+I few years of experience working in a variety of roles and team environments. At the beginning of my career, I worked with Java, and for the past 6 years, I work as a Full-Stack developer using Nodejs Express, AngularJS, or React in FE, SQL, and NoSQL MongoDB & MYSQL.</br>
+These experiences were in Agile teams and Scrum routines, and also using ticketing systems like Jira, for instance. </br>
+In my last role, at ementorConnect I am the Tech Lead where I managed a small team in all steps of the project and got hands-on Cloud Platforms. I am also playing the role of the Quality Assurance person.</br>
 
 - 🔭 I am a **Software Developer** (Javascript(nodeJS), Python and Java. MongoDB, SQL(Mysql & Postgres))
 
@@ -14,7 +14,6 @@ Currently improving my knowledge of Python projects. I am enrolled in a course a
 
 - 🤝 I’m looking for help with **Data Science** and BE Applications
 
-- 📫 How to reach me **elianenetto82@gmailcom**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
