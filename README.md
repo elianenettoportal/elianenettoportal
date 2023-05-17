@@ -1,18 +1,5 @@
-<h1 align="center">Hi 👋, I'm Eliane</h1>
+<h1 align="center">Hi, I'm Eliane</h1>
 <h3 align="center">Software Developer and Data Scienctist</h3>
-
-<h6>I Graduated in Computer Science and Post Graduate in Quality Assurance and Software Engineering. I  have been working with technology since before graduation.
-I lived in Canada for 4 years where I learned English and since I got back to Brazil I´ve been working directly on USA projects/companies in a fully English environment.</br>
-
-I few years of experience working in a variety of roles and team environments. At the beginning of my career, I worked with Java, and for the past 6 years, I work as a Full-Stack developer using Nodejs Express, AngularJS, or React in FE, SQL, and NoSQL MongoDB & MYSQL.</br>
-These experiences were in Agile teams and Scrum routines, and also using ticketing systems like Jira, for instance. </br>
-In my last role, at ementorConnect I am the Tech Lead where I managed a small team in all steps of the project and got hands-on Cloud Platforms. I am also playing the role of the Quality Assurance person.</br>
-
-- 🔭 I am a **Software Developer** (Javascript(nodeJS), Python and Java. MongoDB, SQL(Mysql & Postgres))
-
-- 🌱 I’m currently learning **Data Science** and Python
-
-- 🤝 I’m looking for help with **Data Science** and BE Applications
 
 
 <h3 align="left">Connect with me:</h3>
